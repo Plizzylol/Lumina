@@ -1,0 +1,37 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="gold-gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color:#FDE047;" /> <!-- yellow-300 -->
+      <stop offset="100%" style="stop-color:#F59E0B;" /> <!-- amber-500 -->
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+        <feDropShadow dx="1" dy="1" stdDeviation="2" flood-color="#000000" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <!-- Background Shape -->
+  <path d="M 85.3,57.1 C 92.2,74.5 75,92.5 57.1,92.5 C 39.2,92.5 28.9,80.1 22,62.7 C 15.1,45.3 28.4,22.5 46.3,22.5 C 64.2,22.5 78.4,39.7 85.3,57.1 Z" fill="#FBBF24" opacity="0.5" transform="translate(-5, 5)"/>
+  <path d="M 85.3,57.1 C 92.2,74.5 75,92.5 57.1,92.5 C 39.2,92.5 28.9,80.1 22,62.7 C 15.1,45.3 28.4,22.5 46.3,22.5 C 64.2,22.5 78.4,39.7 85.3,57.1 Z" fill="#FBBF24" opacity="0.75" />
+
+  <!-- Cards -->
+  <g filter="url(#shadow)">
+    <!-- Back Card (Checkmark) -->
+    <g transform="rotate(-15 50 50) translate(5, 5)">
+      <rect x="25" y="20" width="40" height="55" rx="5" fill="url(#gold-gradient)" />
+      <text x="45" y="55" font-family="sans-serif" font-size="24" fill="white" text-anchor="middle" font-weight="bold">✓</text>
+    </g>
+    <!-- Middle Card (A+) -->
+    <g transform="rotate(-5 50 50) translate(0, 0)">
+      <rect x="30" y="18" width="40" height="55" rx="5" fill="url(#gold-gradient)" />
+      <text x="50" y="53" font-family="sans-serif" font-size="20" fill="white" text-anchor="middle" font-weight="bold">A+</text>
+    </g>
+    <!-- Front Card (?) -->
+    <g transform="rotate(8 50 50) translate(-5, -5)">
+      <rect x="35" y="22" width="40" height="55" rx="5" fill="url(#gold-gradient)" />
+      <text x="55" y="58" font-family="sans-serif" font-size="28" fill="white" text-anchor="middle" font-weight="bold">?</text>
+    </g>
+  </g>
+  
+  <!-- Plus Symbol -->
+  <text x="82" y="35" font-family="sans-serif" font-size="14" fill="white" font-weight="bold" opacity="0.8">+</text>
+</svg>
