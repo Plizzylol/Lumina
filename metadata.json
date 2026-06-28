@@ -1,0 +1,7 @@
+{
+  "name": "StudyLM",
+  "description": "An intelligent study partner similar to NotebookLM. Upload your learning materials to generate revision plans, interactive flashcards, and AI-powered quizzes to supercharge your learning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
